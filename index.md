@@ -1,10 +1,11 @@
 # Ernesto Moran Portfolio
 
-I am a computer science student at CSUF and I'm expected to graduate in 2025
+This is my home page! My name is Ernesto Moran and I am a student at student at CSUF https://www.fullerton.edu/ and my major is Computer Science.
 
-My Github page is http://github.com/
+My Github page is http://github.com/Ernesto952
 ## Favorite CPSC 120L Labs
-* Lab 1 was an easy lab that focused on the basics of coding. This lab helped me by introducing the basics rather than diving head first. I had to figure out what line needed to be changed.
+* Lab 1 was an easy lab that focused on the basics of coding. This lab helped me by introducing the basics rather than diving headfirst. I had to figure out what line needed to be changed, so I can display "Hello Ernesto", a great introduction to this course.
+
 
 * Lab 7, part 1 was my favorite because I was able to relate it to my daily life. For instance, part 1 was trying to see how much time elapsed by subtracting two different dates(months). If we wanted to, we could scale this down to track how many hours or minutes an individual has exercised for.
 
